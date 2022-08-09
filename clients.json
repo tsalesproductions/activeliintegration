@@ -1,0 +1,34 @@
+{
+    "li": {
+        "application_token": "cccccccccccccccccccc"
+    },
+    "clients": [
+        {
+            "infos": {
+                "service": "LojaIntegrada",
+                "externalid": "theonlyone",
+                "name": "The Only One",
+                "logoUrl": "https://cdn.awsli.com.br/400x300/1423/1423721/logo/340d19889a.png",
+                "linkUrl": "https://www.theonlyone.com.br/"
+            },
+            "token": "aaaaaaaaaaaaaaaaaa",
+            "active_url": "https://salescode.api-us1.com/",
+            "active_token": "bbbbbbbbbbbbbbbbb",
+            "active_list": "1",
+            "fields": {
+                "cpf": 1,
+                "cnpj": 2,
+                "razao_social": 3,
+                "sexo": 4,
+                "telefone_principal": 5,
+                "data_nascimento": 6,
+                "bairro": 7,
+                "cidade": 8,
+                "estado": 9,
+                "pais": 10,
+                "cep": 11,
+                "last_order_status": 12
+            }
+        }
+    ]
+}
